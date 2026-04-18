@@ -17,6 +17,4 @@ The project was built using Flask, HTML, CSS, and MongoDB.
 * **Front-end**: HTML, CSS
 * **Environment Variables**: python-dotenv
 
-A Live demo can be found here: https://blog-wfo6.onrender.com/
-
-Please allow up to 20 seconds for the live demo to load.
+Note: This project is deprecated and no longer live due to the shutdown of its hosting/database service.
